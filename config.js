@@ -1,5 +1,5 @@
 const nameGirl = 'Mai';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = '';
 const eventName = 'Chúc Mừng 8-3';
 const titleCard = 'Tặng Mai ';
 const contentCard = 'Chúc Mai 8-3 tràn ngập niềm vui và những nụ cười. Mong điều tốt đẹp nhất sẽ đến với Mai trong hôm nay và cả những ngày sau';
